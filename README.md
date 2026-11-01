@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shpatovych@gmail.com)
 -->
 
-[English](#about) · [Русский](#ru-version)
+[English](#about) · [Русский](#russian)
 
 </div>
 
@@ -75,9 +75,10 @@ My work today is a mix of three things: **teaching** (C#/.NET, testing, project 
 - [EF SET English Certificate - C1](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.efset.org%2Fcert%2FGWqXCz&urlhash=ZgCC&mt=rEN7jnr7WxJWegA0xlxPLecOltE3SJMeY8TjluS0Tq_uxEAx-mUGx_Xh4m6KxZPftrEuYKXUONugNuLT6T-b6HZ1-AJMj5-SZkmcwi9nwz9Y-H7SzVkn6y5c44iaSJ0aNXn0G32tH5rfHcijv8xLMYm6ynCVG7MaQXuMgTeuLwh2bKUnLCDVkJqHOUs&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6o4olrd6SFyrAkOmoGPQhQ%3D%3D)
 
 ---
+## Russian
 
 <details>
-<summary id="russian-version"><b>🇷🇺 Русская версия</b></summary>
+<summary id="russian-version"><b>Русская версия</b></summary>
 
 ## Обо мне
 

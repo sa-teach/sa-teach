@@ -79,14 +79,14 @@ My work today is a mix of three things: **teaching** (C#/.NET, testing, project 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-teach/sa-teach/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa-teach/sa-teach/output/github-snake.svg">
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/sa-teach/sa-teach/output/github-snake-dark.svg?v=2">
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/sa-teach/sa-teach/output/snake-night.svg">
 </picture>
 
-<!-- Optional stats card. The public instance is sometimes rate-limited; remove if it breaks. -->
+<!-- Optional stats card. The public instance is sometimes rate-limited; remove if it breaks. 
 <p align="center"> 
   <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sa-teach&show_icons=true&hide_border=true" /> 
 </p>
-
+-->
 ---
 
 <details>

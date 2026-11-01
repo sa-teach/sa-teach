@@ -4,8 +4,6 @@
 
 **Software Engineering Lecturer · C# / .NET Developer · Mentor**
 
-*Enjoy coding.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shpatovych/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/andrei_danilovich)
 <!-- Uncomment when you are ready to publish your site:
@@ -85,8 +83,8 @@ My work today is a mix of three things: **teaching** (C#/.NET, testing, project 
 </picture>
 
 <!-- Optional stats card. The public instance is sometimes rate-limited; remove if it breaks. -->
-<p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sa-teach&show_icons=true&hide_border=true&theme=transparent" />
+<p align="center"> 
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sa-teach&show_icons=true&hide_border=true" /> 
 </p>
 
 ---
@@ -135,6 +133,8 @@ My work today is a mix of three things: **teaching** (C#/.NET, testing, project 
 
 ## Контакты
 
+<div align="center">
+  
 [LinkedIn](https://www.linkedin.com/in/shpatovych/) · [Telegram](https://t.me/andrei_danilovich)
 
 </details>

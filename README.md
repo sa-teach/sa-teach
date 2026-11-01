@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shpatovych@gmail.com)
 -->
 
-[English](#about) · [Русский](#обо-мне)
+[English](#about) · [Русский](#ru-version)
 
 </div>
 
@@ -77,7 +77,7 @@ My work today is a mix of three things: **teaching** (C#/.NET, testing, project 
 ---
 
 <details>
-<summary><b>🇷🇺 Русская версия</b></summary>
+<summary id="russian-version"><b>🇷🇺 Русская версия</b></summary>
 
 ## Обо мне
 
